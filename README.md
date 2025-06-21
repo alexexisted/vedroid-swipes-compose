@@ -21,7 +21,7 @@ dependencyResolutionManagement {
    
 ```kotlin
 dependencies {
-	        implementation("com.github.alexexisted:vedroid-swipes-compose:Tag")
+	        implementation("com.github.alexexisted:vedroid-swipes-compose:v1.1.0")
 	}
 ```
 
