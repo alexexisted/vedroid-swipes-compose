@@ -31,7 +31,7 @@ fun SwipeDemo() {
     val items = remember {
         listOf(
             ProfileCard(
-                "Alexa Diamant",
+                "Alexa",
                 "Global Elite",
                 "Android dev & CS2 strategist",
                 R.drawable.card_test_preview3
@@ -59,7 +59,7 @@ fun SwipeDemo() {
     SwipeCardDeck(
         state = state,
         items = items,
-        visibleCount = 1,
+        visibleCount = 5,
         modifier = Modifier,
         onSwiped = { dir, item -> println("Swiped $dir on ${item.name}") },
         cardContent = { item, offsetX ->
