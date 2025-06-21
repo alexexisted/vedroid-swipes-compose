@@ -1,0 +1,16 @@
+.idea/
+*.iml
+build/
+local.properties
+.gradle/
+*.log
+.DS_Store
+java_pid99737.hprof
+.idea
+.kotlin
+.gradle
+gradlew.bat
+./gradle
+*/gradle
+
+
