@@ -89,3 +89,6 @@ cardContent = { item, offsetX ->            // <----- working with current item 
 ```
 
 
+https://github.com/user-attachments/assets/308b11c7-0e70-4ae5-ad7c-ecf2245a5bfc
+
+
