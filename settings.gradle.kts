@@ -19,8 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android-swipes"
-include(":example")
-include(":compose-swipeable-sdk")
+rootProject.name = "vedroid-swipes-compose"
+
+include(":compose-swipeable-sdk", ":example")
+
+project(":example").projectDir = file("example")
 project(":compose-swipeable-sdk").projectDir = file("compose-swipeable-sdk")
 

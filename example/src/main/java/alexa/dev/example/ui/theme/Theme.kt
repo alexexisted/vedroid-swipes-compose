@@ -1,6 +1,5 @@
-package alexa.dev.android_swipes.ui.theme
+package alexa.dev.example.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

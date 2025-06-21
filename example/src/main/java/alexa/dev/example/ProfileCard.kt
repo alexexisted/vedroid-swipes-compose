@@ -1,4 +1,4 @@
-package alexa.dev.android_swipes
+package alexa.dev.example
 
 data class ProfileCard(
     val name: String,

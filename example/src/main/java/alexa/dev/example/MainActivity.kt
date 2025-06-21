@@ -1,6 +1,6 @@
-package alexa.dev.android_swipes
+package alexa.dev.example
 
-import alexa.dev.android_swipes.ui.theme.AndroidswipesTheme
+import alexa.dev.example.ui.theme.AndroidswipesTheme
 import alexa.dev.compose_swipeable_sdk.SwipeCardDeck
 import alexa.dev.compose_swipeable_sdk.rememberSwipeableCardsState
 import android.os.Bundle
@@ -34,7 +34,7 @@ fun SwipeDemo() {
                 "Alexa Diamant",
                 "Global Elite",
                 "Android dev & CS2 strategist",
-                R.drawable.card_test_preview
+                R.drawable.card_test_preview3
             ),
             ProfileCard(
                 "Mira Nova",
